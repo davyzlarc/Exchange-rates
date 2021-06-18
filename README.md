@@ -1,4 +1,4 @@
-# exchange_rates
+# Exchange rates
 get exchange rates from API of central bank of Russia, process data and return some result values
 
 Из API центробанка извлекаются данные по переводу различных валют в рубли за последние 90 дней.
